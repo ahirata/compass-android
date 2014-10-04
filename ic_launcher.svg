@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/atarih/devel/android/workspace/compassapp/res/drawable-xxxhdpi/ic_launcher_v2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5089"
+       cx="372.74628"
+       cy="381.11157"
+       fx="372.74628"
+       fy="381.11157"
+       r="43.436558"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5081">
+      <stop
+         style="stop-color:#232323;stop-opacity:1;"
+         offset="0"
+         id="stop5083" />
+      <stop
+         style="stop-color:#656565;stop-opacity:1;"
+         offset="1"
+         id="stop5085" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5181"
+       id="radialGradient5187"
+       cx="372.74628"
+       cy="381.11157"
+       fx="372.74628"
+       fy="381.11157"
+       r="43.436558"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5181">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5183" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5185" />
+    </linearGradient>
+    <filter
+       inkscape:label="Metallized paint"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Metallized effect with a soft lighting, slightly translucent at the edges"
+       height="1.1"
+       width="1.1"
+       y="-0.050000001"
+       x="-0.050000001"
+       color-interpolation-filters="sRGB"
+       id="filter5208">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur5210" />
+      <feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite5212" />
+      <feBlend
+         in="result1"
+         mode="screen"
+         result="result5"
+         in2="result4"
+         id="feBlend5214" />
+      <feGaussianBlur
+         stdDeviation="8"
+         result="result6"
+         in="result5"
+         id="feGaussianBlur5216" />
+      <feComposite
+         operator="atop"
+         in="result6"
+         in2="result5"
+         result="result8"
+         id="feComposite5218" />
+      <feComposite
+         operator="in"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite5220" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="2.5"
+         id="feGaussianBlur5222" />
+      <feSpecularLighting
+         specularExponent="45"
+         specularConstant="1.5"
+         surfaceScale="1"
+         lighting-color="#ffffff"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting5224">
+        <fePointLight
+           z="21000"
+           y="-9000"
+           x="-6000"
+           id="fePointLight5226" />
+      </feSpecularLighting>
+      <feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite5228" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite5230" />
+      <feComposite
+         operator="in"
+         in2="result4"
+         result="result91"
+         id="feComposite5232" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend5234" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5091"
+       id="radialGradient5097"
+       cx="407.09146"
+       cy="390.20294"
+       fx="407.09146"
+       fy="390.20294"
+       r="70.710678"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5091">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5093" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5095" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5099"
+       id="radialGradient5105"
+       cx="407.09146"
+       cy="390.20294"
+       fx="407.09146"
+       fy="390.20294"
+       r="70.710678"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5099">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5101" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5103" />
+    </linearGradient>
+    <filter
+       inkscape:menu-tooltip="Bright metallic effect for any color"
+       inkscape:menu="Bevels"
+       inkscape:label="Bright metal"
+       color-interpolation-filters="sRGB"
+       id="filter5159">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="8"
+         in="SourceGraphic"
+         id="feGaussianBlur5161" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result6"
+         operator="xor"
+         result="result10"
+         id="feComposite5163" />
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="8"
+         id="feGaussianBlur5165" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result10"
+         result="result91"
+         id="feComposite5167" />
+      <feComposite
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91"
+         id="feComposite5169" />
+      <feGaussianBlur
+         in="result4"
+         result="result3"
+         stdDeviation="4"
+         id="feGaussianBlur5171" />
+      <feSpecularLighting
+         result="result5"
+         specularExponent="5"
+         specularConstant="1.10000002"
+         surfaceScale="18"
+         id="feSpecularLighting5173">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight5175" />
+      </feSpecularLighting>
+      <feComposite
+         k4="0"
+         in="result3"
+         k3="1.1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result7"
+         in2="result5"
+         k1="0.5"
+         id="feComposite5177" />
+      <feComposite
+         in="result7"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result8"
+         id="feComposite5179" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5091"
+       id="radialGradient5463"
+       gradientUnits="userSpaceOnUse"
+       cx="407.09146"
+       cy="390.20294"
+       fx="407.09146"
+       fy="390.20294"
+       r="70.710678" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5099"
+       id="radialGradient5465"
+       gradientUnits="userSpaceOnUse"
+       cx="407.09146"
+       cy="390.20294"
+       fx="407.09146"
+       fy="390.20294"
+       r="70.710678" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="radialGradient5467"
+       gradientUnits="userSpaceOnUse"
+       cx="372.74628"
+       cy="381.11157"
+       fx="372.74628"
+       fy="381.11157"
+       r="43.436558" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5181"
+       id="radialGradient5469"
+       gradientUnits="userSpaceOnUse"
+       cx="372.74628"
+       cy="381.11157"
+       fx="372.74628"
+       fy="381.11157"
+       r="43.436558" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="75.399123"
+     inkscape:cy="99.437352"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-860.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;fill-opacity:1;fill-rule:nonzero;display:inline"
+       id="path3056"
+       sodipodi:cx="658.32684"
+       sodipodi:cy="329.09146"
+       sodipodi:rx="610.24677"
+       sodipodi:ry="610.24677"
+       d="m 1268.5736,329.09146 a 610.24677,610.24677 0 1 1 -1220.493522,0 610.24677,610.24677 0 1 1 1220.493522,0 z"
+       transform="matrix(0.15731341,0,0,0.15731341,-7.563641,904.59168)"
+       inkscape:export-filename="/home/atarih/devel/android/workspace/compassapp/res/drawable-xxxhdpi/compass_v2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       id="path2985-8"
+       sodipodi:cx="502.85715"
+       sodipodi:cy="522.71429"
+       sodipodi:rx="201.42857"
+       sodipodi:ry="235"
+       d="m 704.28572,522.71429 a 201.42857,235 0 1 1 -402.85715,0 201.42857,235 0 1 1 402.85715,0 z"
+       transform="matrix(0.44680851,0,0,0.38297873,-128.68085,756.17372)" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.53392792px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Source Han Sans JP;-inkscape-font-specification:Source Han Sans JP Bold"
+       x="80.763771"
+       y="885.4137"
+       id="text3073"
+       sodipodi:linespacing="125%"
+       transform="scale(0.97449104,1.0261767)"><tspan
+         sodipodi:role="line"
+         id="tspan3075"
+         x="80.763771"
+         y="885.4137">北</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36.92199326px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Source Han Sans JP;-inkscape-font-specification:Source Han Sans JP"
+       x="-112.37376"
+       y="-1026.8633"
+       id="text3081"
+       sodipodi:linespacing="125%"
+       transform="scale(-1.0226273,-0.97787337)"><tspan
+         sodipodi:role="line"
+         id="tspan3083"
+         x="-112.37376"
+         y="-1026.8633">南</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.20084763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Source Han Sans JP;-inkscape-font-specification:Source Han Sans JP Bold"
+       x="945.31006"
+       y="-143.01784"
+       id="text3085"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,0.99309057,-1.0069575,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3087"
+         x="945.31006"
+         y="-143.01784">東</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.39593506px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;display:inline;font-family:Source Han Sans JP;-inkscape-font-specification:Source Han Sans JP Bold"
+       x="-985.33649"
+       y="47.387447"
+       id="text3089"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-0.98929249,1.0108234,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3091"
+         x="-985.33649"
+         y="47.387447">西</tspan></text>
+    <g
+       id="g5457"
+       transform="matrix(0.26025626,0.26025073,-0.26025626,0.26025073,276.86967,817.00507)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4553"
+         d="m -114.66874,614.9135 69.889935,0.0631 -34.966725,192.0103 z"
+         style="fill:#999999;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4551"
+         d="M -114.74553,614.98355 -79.75111,423.45174 -44.71763,614.9445 z"
+         style="fill:#800000;stroke:#000000;stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.49497474,0,0,0.49497474,-281.49999,422.08068)"
+         d="m 477.80214,390.20294 c 0,39.05243 -31.65825,70.71068 -70.71068,70.71068 -39.05243,0 -70.71068,-31.65825 -70.71068,-70.71068 0,-39.05243 31.65825,-70.71068 70.71068,-70.71068 39.05243,0 70.71068,31.65825 70.71068,70.71068 z"
+         sodipodi:ry="70.710678"
+         sodipodi:rx="70.710678"
+         sodipodi:cy="390.20294"
+         sodipodi:cx="407.09146"
+         id="path4557"
+         style="fill:url(#radialGradient5463);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient5465);stroke-width:1.01015258;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5159)"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.51799685,0,0,0.51799685,-273.08139,417.80668)"
+         d="m 416.18283,381.11157 c 0,23.98935 -19.4472,43.43656 -43.43655,43.43656 -23.98935,0 -43.43656,-19.44721 -43.43656,-43.43656 0,-23.98935 19.44721,-43.43656 43.43656,-43.43656 23.98935,0 43.43655,19.44721 43.43655,43.43656 z"
+         sodipodi:ry="43.436558"
+         sodipodi:rx="43.436558"
+         sodipodi:cy="381.11157"
+         sodipodi:cx="372.74628"
+         id="path4563"
+         style="fill:url(#radialGradient5467);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient5469);stroke-width:0.96525687;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5208)"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
